@@ -1,4 +1,4 @@
-[!image](https://github.com/coldheartboy/transmission-line-inspection-yolov5/blob/d14208a3807b912da50522a1fbe63fd7b5332579/transmission%20line%20inspection%20using%20yolov5/insulators.jpg)
+(https://github.com/coldheartboy/transmission-line-inspection-yolov5/blob/d14208a3807b912da50522a1fbe63fd7b5332579/transmission%20line%20inspection%20using%20yolov5/insulators.jpg)
 # transmission-line-inspection-yolov5
 Trained a yolov5 with available dataset in roboflow thanks for the public dataset 
 #Project Overview
